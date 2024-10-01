@@ -1,0 +1,29 @@
+h1{
+    font-size: 40pt;
+}
+
+h2{
+    font-size: 20pt;
+    margin-bottom: 8pt;
+    margin-top: 25pt;
+}
+
+h3{
+    font-size:15pt;
+    margin-bottom: 8pt;
+}
+
+p{
+    line-height: 15pt;
+}
+
+img{
+    width: 500px;
+}
+
+html{
+    font-family: "Merriweather", serif;
+    font-size: 13px;
+}
+
+body{background-color: peachpuff;}
