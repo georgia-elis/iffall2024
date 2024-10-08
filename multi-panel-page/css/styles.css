@@ -1,0 +1,124 @@
+header{
+    text-align: center;
+    padding-top: 166px;
+    background-color: red;
+    padding-bottom: 188px;
+    background-image: url('../images/sky-pic.jpg');
+    background-size: cover;
+}
+
+body {
+    font-family: "Archivo Narrow", sans-serif;
+    font-size: 18px;
+    line-height: 1.39;
+}
+
+h1{
+    font-size: 80px;
+    margin: 0;
+    line-height: 1;
+}
+
+h2 {
+    font-size: 30px;
+    margin: 0;
+    line-height: 1;
+    margin-top: 16px;
+}
+
+h3 {
+    font-size: 40px;
+    margin: 0;
+    line-height: 1;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+section{
+    margin: 0 auto;
+    background-color: lightcyan;
+    padding-bottom: 37px;
+}
+
+section > div{
+    width: 960px;
+    margin: 0 auto;
+    padding-top: 48px;
+}
+
+section.thumbnail-grid {
+    background-color: lightblue;
+    padding-bottom: 22px;
+}
+
+img.sunny{
+    float: right;
+    width: 400px;
+    height: 300px;
+    padding-top: 19px;
+    margin: 0 0 25px 40px;
+}
+
+.grid img{
+    width: 200px;
+    height: 150px;
+    padding: 0;
+}
+
+.grid-flex{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+}
+
+.grid-flex li{
+    display: block;
+    width: 50%;
+    margin-bottom: 0px;
+}
+
+.grid{
+    padding: 0;
+    display: grid;
+    grid-template-columns: 1fr 1.25fr;
+    padding-bottom: 18px;
+}
+
+.grid li{
+    width: 100%;
+}
+
+h4{
+    font-size: 15pt;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+li p{
+    margin-right: 2em;
+    margin-top: 7px;
+}
+
+.summary p{
+    text-align: center;
+    font-size: 26px;
+    margin-top: 18px;
+}
+
+.summary div{
+    width: 720px;
+}
+
+section.summary{
+    padding-bottom: 75px;
+}
+
+footer{
+    background-color: white;
+}
+
+footer div{
+    padding-left: 196px;
+    padding-top: 41px;
+
+}
