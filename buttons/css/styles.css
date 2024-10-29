@@ -1,0 +1,195 @@
+a#btn_nike {
+    display: inline-block;
+    background-color: black;
+    text-decoration: none;
+    margin-top: 100px;
+    color: white;
+    padding: 10px 25px 0 25px;
+    height: 50px;
+    font-family: "Noto Sans";
+    font-size: 30px;
+    transition: 0.5s;
+}
+
+a#btn_nike:hover {
+    color: black;
+    background-color: white;
+    font-size: 40px;
+}
+
+a#btn_coca-cola {
+    color: #F40009;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 100px;
+    font-family: "Cookie";
+    font-size: 50px;
+    transition: 0.5s;
+}
+
+a#btn_coca-cola:hover {
+    background-color: #F40009;
+    color: white;
+    padding: 10px 30px 10px 30px;
+    border-radius: 25px;
+    text-shadow: 0 0 10px #FFFFFF;
+}
+
+a#btn_old-navy {
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 100px;
+    background-color: #003764;
+    color: white;
+    padding: 5px 30px 5px 30px;
+    font-size: 40px;
+    font-family: "PT Sans";
+    font-weight: bold;
+    border-radius: 50px;
+    transition: 0.3s;
+}
+
+a#btn_old-navy:hover {
+    box-shadow: 2px 5px 16px 0px #0B325E;
+}
+
+a#btn_samsung {
+    margin-top: 100px;
+    display: inline-block;
+    text-decoration: none;
+    color: #1428A0;
+    font-family: "Lato";
+    font-weight: bold;
+    font-size: 30px;
+    transition: 0.5s;
+}
+
+a#btn_samsung:hover {
+    background-color: #1428A0;
+    color: white;
+    padding: 0 30px 0 30px;
+    border-radius: 40px;
+    rotate: 20%;
+    transform: rotate(-10deg);
+}
+
+a#btn_ibm {
+    margin-top: 100px;
+    display: inline-block;
+    text-decoration: none;
+    font-family: "IBM Plex Serif";
+    font-weight: light;
+    font-size: 40px;
+    color: #0530AD;
+    transition: 0.3s;
+}
+
+a#btn_ibm:hover {
+    font-weight: bold;
+    text-shadow: -28px 56px 1px #e4e3e2;
+}
+
+a#btn_cartoon-network {
+    margin-top: 100px;
+    display: inline-block;
+    text-decoration: none;
+    font-family: "Poppins";
+    font-weight: bold;
+    font-size: 50px;
+    transition: 0.2s;
+}
+
+.c {
+    color: white;
+    background-color: black;
+    padding: 0 5px 0 5px;
+}
+
+.n {
+    color: black;
+    background-color: white;
+    padding: 0 5px 0 5px;
+}
+
+.n:hover {
+    color: white;
+    background-color: black;
+}
+
+.c:hover {
+    color: black;
+    background-color: white;
+}
+
+a#btn_thenewyorker {
+    margin-top: 100px;
+    display: inline-block;
+    text-decoration: none;
+    font-family: "Neuton";
+    font-size: 30px;
+    font-weight: light;
+    color: black;
+    transition: 0.5s;
+}
+
+a#btn_thenewyorker:hover {
+    color: #DB3334; 
+    text-shadow: 2px 2px 0px #FFFFFF, 5px 4px 0px rgba(0,0,0,0.15), 2px 2px 2px rgba(206,89,55,0);
+}
+
+a#btn_instagram {
+    margin-top: 100px;
+    display: inline-block;
+    text-decoration: none;
+    font-family: "Playwrite GB S";
+    color: black;
+    font-size: 30px;
+    font-style: italic;
+    transition: 0.5s;
+}
+
+a#btn_instagram:hover {
+    background: linear-gradient(to right, #5b51d8 0%,#833ab4 14%,#c13584 30%,#f77737 61%,#ffdc80 100%);
+    padding: 5px 25px 5px 25px;
+    height: 50px;
+    border-radius: 25px;
+    color: white;
+}
+
+a#btn_facebook {
+    margin-top: 70px;
+    display: inline-block;
+    text-decoration: none;
+    background: #1877F2;
+    color: white;
+    font-family: "Agdasima";
+    font-size: 100px;
+    box-sizing: border-box;
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    font-weight: bold;
+    padding: 10px 0px 0px 30px;
+    transition: 0.5s
+}
+
+a#btn_facebook:hover {
+    color: #1877F2;
+    background-color: white;
+}
+
+a#btn_michaelkors {
+    margin-top: 100px;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    font-family: "helvetica";
+    font-weight: bold;
+    font-size: 25px;
+}
+
+a#btn_michaelkors:hover {
+    color: white;
+    background-color: black;
+    padding: 10px 30px 10px 30px;
+}
