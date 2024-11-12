@@ -1,0 +1,228 @@
+.using-flex {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    text-wrap: wrap;
+    width: 100%;
+    padding-left: 0;
+}
+
+h2{
+    font-family: 'Passion One';
+    font-size: 20pt;
+    color: white;
+}
+
+h3{
+    font-family: 'Passion One';
+    font-size: 15pt;
+    color: white;
+}
+
+header a{
+    text-decoration: none;
+}
+
+header{
+    background-color:#7A263A;
+    height: 60px;
+}
+
+
+body{
+    margin: 0;
+}
+
+.using-flex li {
+    margin-left: 30px;
+    margin-right: 120px;
+}
+
+.opening {
+    display: flex;
+    padding-top: 50px;
+    list-style: none;
+    text-wrap: wrap;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 80px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.opening img{
+    width: 580px;
+}
+
+p {
+    font-family: 'EB Garamond';
+    font-size: 12pt;
+    margin: 0;
+    line-height: 18pt;
+}
+
+h1{
+    font-family: 'Passion One';
+    font-size: 60pt;
+    margin: 0;
+    padding-bottom: 10px;
+}
+
+.opening li{
+    margin-right: 50px;
+    margin-left: 20px;
+    width: 580px;
+}
+
+h4{
+    text-align: center;
+    font-family: 'Passion One';
+    font-size: 30pt;
+    margin: 0;
+    padding-bottom: 5px;
+}
+
+.time p{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+ul.birth {
+    display: flex;
+    list-style: none;
+    text-wrap: wrap;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 60px;
+}
+
+.birth img{
+    width: 400px;
+    height: 200px;
+}
+
+.birth li {
+    margin-right: 30px;
+}
+
+ul.glory {
+    display: flex;
+    list-style: none;
+    text-wrap: wrap;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 60px;
+}
+
+.glory img{
+    width: 400px;
+    height: 200px;
+}
+
+.glory li{
+    margin-right: 30px;
+}
+
+ul.modern {
+    display: flex;
+    list-style: none;
+    text-wrap: wrap;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 60px;
+}
+
+.modern img{
+    width: 400px;
+    height: 200px;
+}
+
+.modern li{
+    margin-right: 30px;
+}
+
+.stadium {
+    display: flex;
+    list-style: none;
+    text-wrap: wrap;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.stadium img {
+    width: 580px;
+}
+
+.stadium li {
+    margin-left: 50px;
+    width: 580px;
+
+}
+
+.success {
+    display: flex;
+    list-style: none;
+    text-wrap: wrap;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 70px;
+    justify-content: center;
+    align-items: center;
+}
+
+.success img {
+    width: 580px;
+}
+
+.success li {
+    margin-left: 50px;
+    width: 580px;
+
+}
+
+.footer{
+    list-style: none;
+    background-color:#7A263A;
+    text-decoration: none;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.footer a{
+    text-decoration: none;
+}
+
+.interior {
+    display: flex;
+    list-style: none;
+    text-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.interior img{
+    width: 700px;
+}
+
+.interiorheader{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 5px;
+}
+
+.interiorbody {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.interiorbody p {
+    padding-bottom: 10px;
+}
