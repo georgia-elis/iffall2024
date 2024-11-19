@@ -1,0 +1,575 @@
+.using-flex {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    text-wrap: wrap;
+    width: 100%;
+    padding-left: 0;
+    align-items: center;
+    justify-content: center;
+}
+
+h2{
+    font-family: 'DM Sans';
+    font-size: 14pt;
+    color: grey;
+}
+
+h3{
+    font-family: 'DM Sans';
+    font-size: 14pt;
+    color: white;
+}
+
+header a{
+    text-decoration: none;
+}
+
+header{
+    background-color:#7A263A;
+    height: 60px;
+}
+
+
+body{
+    margin: 0;
+
+}
+
+.using-flex li {
+    margin-left: 30px;
+    margin-right: 120px;
+}
+
+.opening {
+    display: flex;
+    padding-top: 50px;
+    list-style: none;
+    text-wrap: wrap;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 80px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.opening img{
+    width: 580px;
+    object-fit: cover;
+}
+
+p {
+    font-family: 'EB Garamond';
+    font-size: 12pt;
+    margin: 0;
+    line-height: 18pt;
+}
+
+h1{
+    font-family: 'DM Sans';
+    font-size: 60pt;
+    line-height: 62pt;
+    font-weight: bold;
+    margin: 0;
+    padding-bottom: 10px;
+}
+
+.opening li{
+    margin-right: 50px;
+    margin-left: 20px;
+    width: 580px;
+}
+
+h4{
+    text-align: center;
+    font-family: 'DM Sans';
+    font-size: 30pt;
+    margin: 0;
+    padding-bottom: 5px;
+}
+
+.time p{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.timemodern p{
+    text-align: center;
+    padding-bottom: 30px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+ul.birth {
+    display: flex;
+    list-style: none;
+    text-wrap: wrap;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 60px;
+}
+
+.birth img{
+    width: 400px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.birth li {
+    margin-right: 30px;
+}
+
+ul.glory {
+    display: flex;
+    list-style: none;
+    text-wrap: wrap;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 60px;
+}
+
+.glory img{
+    width: 400px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.glory li{
+    margin-right: 30px;
+}
+
+ul.modern {
+    display: flex;
+    list-style: none;
+    text-wrap: wrap;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 60px;
+}
+
+.modern img{
+    width: 400px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.modern li{
+    margin-right: 30px;
+}
+
+.stadium {
+    display: flex;
+    list-style: none;
+    text-wrap: wrap;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.stadium img {
+    width: 580px;
+    object-fit: cover;
+}
+
+.stadium li {
+    margin-left: 50px;
+    width: 580px;
+
+}
+
+.success {
+    display: flex;
+    list-style: none;
+    text-wrap: wrap;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 70px;
+    justify-content: center;
+    align-items: center;
+}
+
+.success img {
+    width: 580px;
+    object-fit: cover;
+}
+
+.success li {
+    margin-left: 50px;
+    width: 580px;
+
+}
+
+.footer{
+    list-style: none;
+    background-color:#7A263A;
+    text-decoration: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.footer h3{
+    font-size: 10pt;
+}
+
+.footer h2{
+    font-size: 10pt;
+}
+
+.footer a{
+    text-decoration: none;
+}
+
+.interior {
+    display: flex;
+    list-style: none;
+    text-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.interior img{
+    width: 700px;
+    object-fit: cover;
+}
+
+.interiorheader{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 5px;
+}
+
+.interiorbody {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.interiorbody p {
+    padding-bottom: 10px;
+}
+
+.interiorbodylast{
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-bottom: 70px
+}
+
+.interiorbodylast p{
+    padding-bottom: 10px;
+}
+
+.interiorbodygrid {
+    display: flex;
+    list-style: none;
+    text-wrap: wrap;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.interiorbodygrid p {
+    padding-bottom: 10px;
+    
+}
+
+.interiorbodygrid li {
+    list-style: none;
+    padding-left: 30px;
+}
+
+.interiorbodygrid img{
+    width: 600px;
+}
+
+.interiorbodygridlast {
+    display: flex;
+    list-style: none;
+    text-wrap: wrap;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.interiorbodygridlast p {
+    padding-bottom: 10px;
+}
+
+.interiorbodygridlast li {
+    list-style: none;
+    padding-left: 30px;
+}
+
+.interiorbodygridlast img {
+    width: 600px;
+}
+
+@media (max-width: 1200px){
+    .birth li:nth-child(2) {
+        display:none;
+    }
+
+    .birth li:last-of-type {
+        display:none;
+    }
+
+    .glory li:nth-child(2) {
+        display:none;
+    }
+
+    .glory li:last-of-type {
+        display:none;
+    }
+
+    .modern li:first-of-type {
+        display:none;
+    }
+
+    .modern li:last-of-type {
+        display:none;
+    }
+
+    .timemodern p{
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+
+    h2{
+        font-size: 11pt;
+    }
+    
+    h3{
+        font-size: 11pt;
+    }
+
+    h1{
+        font-size: 44pt;
+        line-height: 52pt;
+        text-align: center;
+    }
+
+    .opening {
+        flex-direction: column;
+    }
+
+    .opening li {
+        padding-bottom: 30px;
+        margin: 0;
+    }
+
+    .stadium {
+        flex-direction: column;
+    }
+
+    .stadium li{
+        padding-bottom: 30px;
+        margin: 0;
+    }
+
+    .success {
+        flex-direction: column;
+    }
+
+    .success li{
+        margin: 0;
+    }
+
+    .succss {
+        padding-bottom: 30px;
+    }
+
+    .footer h2{
+        font-size: 9pt;
+    }
+
+    .footer h3{
+        font-size: 9pt;
+    }
+
+    .interiorbodygrid {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .interiorbody {
+        text-align: center;
+    }
+
+    .interiorbodygridlast {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .interiorbodygrid li{
+        padding: 0;
+    }
+
+    .interiorbodygridlast li{
+        padding: 0;
+    }
+
+    .interiorbodylast{
+        text-align: center;
+    }
+}
+
+@media (max-width:800px){
+    .time p{
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+
+    .success p {
+        text-align: center;
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+
+    .stadium p{
+        text-align: center;
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+
+    .opening p{
+        text-align: center;
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+
+    .opening {
+        padding: 0;
+    }
+
+    .opening li{
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+
+    .stadium img{
+        width: 400px;
+        height: 200px;
+        object-fit: cover;
+        display: flex;
+    }
+
+    .stadium li {
+        margin: 0;
+    }
+
+
+    .stadium li:last-of-type{
+        justify-content: center;
+        align-content: center;
+        display: flex;
+    }
+
+    .success img{
+        width: 400px;
+        height: 200px;
+        object-fit: cover;
+        display: flex;
+    }
+
+    .success li{
+        margin: 0;
+    }
+
+    .success li:first-of-type{
+        justify-content: center;
+        align-content: center;
+        display: flex;
+    }
+
+    .opening img {
+        width: 400px;
+        height: 200px;
+        object-fit: cover;
+        display: flex;
+    }
+
+    .opening li:first-of-type{
+        justify-content: center;
+        align-content: center;
+        display: flex;
+    }
+
+
+    h2{
+        font-size: 8pt;
+    }
+
+    h3{
+        font-size: 8pt;
+    }
+
+    .using-flex li{
+        margin-right: 40px;
+    }
+
+    h1{
+        font-size: 35pt;
+    }
+
+
+    h4{
+        font-size: 25pt;
+    }
+
+    .interior img{
+        width: 400px;
+    }
+
+    .interiorbodygrid img{
+        width: 400px;
+    }
+
+    .interiorbodygridlast img{
+        width: 400px;
+    }
+
+    .interiorbodygrid {
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    .interiorbody{
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    .interiorbodygridlast{
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    .interiorbodylast {
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+}
+
+@media (max-width:600px){
+    .opening p{
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+
+    .stadium p {
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+
+    .success p {
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+
+    .timemodern p{
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+}
